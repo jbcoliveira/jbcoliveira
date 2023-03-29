@@ -7,7 +7,6 @@ Senior .NET Developer
 Experienced .Net Developer with over 15 years of experience in the IT area. Facilitated companies to reduce costs by up to 17% and developed systems that are used by 100,000 users. Worked in teams of 8-20 team members. Substantial programming knowledge of C#, ASP.Net Core, ASP.Net, JavaScript, REST APIs, Microsoft SQL Server, and Entity Framework.
 
 * 🌍  I'm based in Lisbon/Portugal
-* ✉️  You can contact me at [joao.bcoliveira@outlook.com](mailto:joao.bcoliveira@outlook.com)
 * 🚀  I'm currently working on [Aubay Portugal](http://www.aubay.pt)
 * 🧠  I'm learning Go Language
 
