@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is João Batista Costa Oliveira
 ===================================================================================================================================================
 
-Senior .NET Developer
+.NET Developer
 ---------------------
 
 Experienced .Net Developer with over 15 years of experience in the IT area. Facilitated companies to reduce costs by up to 17% and developed systems that are used by 100,000 users. Worked in teams of 8-20 team members. Substantial programming knowledge of C#, ASP.Net Core, ASP.Net, JavaScript, REST APIs, Microsoft SQL Server, and Entity Framework.
